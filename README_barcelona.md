@@ -1,4 +1,4 @@
-# ⚽ FC Barcelona — La Liga Performance Analysis (2021–2025)
+# FC Barcelona — La Liga Performance Analysis (2021–2025)
 
 > End-to-end exploratory data analysis of FC Barcelona's La Liga performance across 5 seasons (1,810 matches), uncovering scoring trends, tactical efficiency, rival comparisons, and resilience patterns using Python.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyses **5 seasons of La Liga match data** (2020/21 – 2024/25) from Football-Data.co.uk, focusing on FC Barcelona's performance trends across 179 matches. The analysis covers attacking efficiency, home/away splits, head-to-head records, and benchmarking against La Liga's top rivals.
 
@@ -24,7 +24,7 @@ This project analyses **5 seasons of La Liga match data** (2020/21 – 2024/25) 
 
 ---
 
-## 🔍 Key Questions Answered
+## Key Questions Answered
 
 1. How has Barcelona's win rate and points-per-game evolved across 5 seasons?
 2. How does home performance compare to away performance?
@@ -35,7 +35,7 @@ This project analyses **5 seasons of La Liga match data** (2020/21 – 2024/25) 
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 - **Consistent contenders** — Barcelona averaged 2.0+ points per game across all 5 seasons
 - **Home fortress** — Win rate at home consistently outperforms away, though away form remains strong
@@ -45,7 +45,7 @@ This project analyses **5 seasons of La Liga match data** (2020/21 – 2024/25) 
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 barcelona-performance-analysis/
@@ -71,7 +71,7 @@ barcelona-performance-analysis/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ```bash
 # Clone
@@ -87,7 +87,7 @@ jupyter notebook barcelona_analysis.ipynb
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Library | Purpose |
 |---|---|
@@ -98,7 +98,7 @@ jupyter notebook barcelona_analysis.ipynb
 
 ---
 
-## 📚 Data Source
+## Data Source
 
 - **Football-Data.co.uk** — La Liga Results & Stats (SP1 files): https://www.football-data.co.uk/spainm.php
 - Free, publicly available football statistics dataset
@@ -106,7 +106,7 @@ jupyter notebook barcelona_analysis.ipynb
 
 ---
 
-## 👤 Author
+## Author
 
 **Abir Alam Srabon**  
 MSc Data Science — Aston University, Birmingham  

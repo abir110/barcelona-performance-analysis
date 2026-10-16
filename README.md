@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ⚽ FC Barcelona: La Liga Performance Analysis (2021/22 – 2025/26)
 
 > Exploratory analysis of FC Barcelona's league performance across five seasons: results, home advantage, toughest opponents, finishing efficiency, second-half resilience, and how they compare with La Liga's other leading clubs.
@@ -18,7 +17,7 @@
 
 ---
 
-## 📌 Key findings
+## Key findings
 
 | # | Question | Answer |
 |---|---|---|
@@ -31,7 +30,7 @@
 
 ---
 
-## 📊 Charts
+## Charts
 
 **Season by season.** Points per game climbed after a weaker 2021/22.
 
@@ -59,7 +58,7 @@
 
 ---
 
-## 🗂️ Repository structure
+## Repository structure
 
 ```
 barcelona-performance-analysis/
@@ -76,7 +75,7 @@ barcelona-performance-analysis/
 
 File names follow the year each season **starts**: `SP1_21.csv` holds the 2021/22 season (first match 13 August 2021).
 
-## ▶️ How to run
+## How to run
 
 ```bash
 git clone https://github.com/abir110/barcelona-performance-analysis.git
@@ -85,7 +84,7 @@ pip install -r requirements.txt
 jupyter lab barcelona_analysis.ipynb
 ```
 
-## 🛠️ Tools
+## Tools
 
 Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter
 
@@ -93,7 +92,7 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter
 
 [Football-Data.co.uk, La Liga results and statistics (SP1)](https://www.football-data.co.uk/spainm.php). Free and publicly available. Includes results, half-time scores, shots, shots on target, corners, fouls, cards and betting odds.
 
-## ⚠️ Notes and limitations
+## Notes and limitations
 
 - League positions are computed from the match data (points, then goal difference). La Liga's official tie-breaker is head-to-head, but no season here was decided by a tie.
 - 2025/26 is incomplete, so its figures will change as the season continues.

@@ -1,4 +1,4 @@
-# ⚽ FC Barcelona: La Liga Performance Analysis (2021/22 – 2025/26)
+# FC Barcelona: La Liga Performance Analysis (2021/22 – 2025/26)
 
 > Exploratory analysis of FC Barcelona's league performance across five seasons: results, home advantage, toughest opponents, finishing efficiency, second-half resilience, and how they compare with La Liga's other leading clubs.
 =======
@@ -88,7 +88,7 @@ jupyter lab barcelona_analysis.ipynb
 
 Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter
 
-## 📚 Data source
+## Data source
 
 [Football-Data.co.uk, La Liga results and statistics (SP1)](https://www.football-data.co.uk/spainm.php). Free and publicly available. Includes results, half-time scores, shots, shots on target, corners, fouls, cards and betting odds.
 
